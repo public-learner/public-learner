@@ -6,4 +6,4 @@ I'm Justin Michel, Team-oriented and self-motivated software engineer and javasc
 
 #### Eager to contribute..
 
-Something or anything to this open source world. Currently working on a self-employed project which is the next generation of a dating app
+Something or anything to this open source world. Currently working on a self-employed project for the next generation of a dating app
