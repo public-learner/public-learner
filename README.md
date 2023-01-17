@@ -1,4 +1,4 @@
-## Hi 👋, I'm Justin
+# Hi 👋, I'm Justin
 
 [![Linkedin Badge](https://img.shields.io/badge/-connect2justinm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/connect2justinm/)](https://www.linkedin.com/in/connect2justinm/) [![Gmail Badge](https://img.shields.io/badge/-sweetjustin0717@gmail.com-c14438?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:sweetjustin0717@gmail.com)](mailto:sweetjustin0717@gmail.com)
 
