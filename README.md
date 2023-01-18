@@ -7,7 +7,7 @@ I'm Justin Michel, Team-oriented and self-motivated software engineer and javasc
 Usually work in the day and sometimes, eager to contribute something or anything to this open source world. 
 Currently working on a self-employed project for the next generation of a dating app - Bump
 
-### Other stuff
+#### Working style
 - Agile development & scrum master
 - Web performance optimization
 - Test driven development
