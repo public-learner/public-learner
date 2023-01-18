@@ -12,4 +12,4 @@ Currently working on a self-employed project for the next generation of a dating
 - Web performance optimization
 - Test driven development
 - Code structure & architecture
-- Pronouns: *** Guy
+- Pronouns: Unknown Guy
