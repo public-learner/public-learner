@@ -8,6 +8,7 @@ Usually work in the day and sometimes, and at night, work on some open-source pr
 Currently working on a self-employed project for the next generation of a dating app - Bump
 
 #### Working style
+- Startup innovator & creative thinker
 - Agile development & scrum master
 - Web performance optimization
 - Test driven development
